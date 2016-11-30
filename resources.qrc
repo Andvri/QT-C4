@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/Sprites">
+        <file>CT4 Res/Table.png</file>
+    </qresource>
+    <qresource prefix="/Fonts">
+        <file>CT4 Res/osakare.ttf</file>
+        <file>CT4 Res/Lost in Wild.ttf</file>
+    </qresource>
+</RCC>
